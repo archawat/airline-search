@@ -1,6 +1,6 @@
 {
   "name": "airline-search",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Search airline code (IATA)",
   "main": "./dist/index.cjs",
   "exports": {
